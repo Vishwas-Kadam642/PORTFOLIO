@@ -194,7 +194,7 @@
       <h2>FORM TAG'S</h2>
     </header>
 <!-- this below tag is form tag it creates form on our page -->
-    <form>
+    <form action="/action.php">
 <!-- this below tag is lable tag it well help in screen reader user -->
       <label for="username">UserName:</label>
 <!-- this below tag is input tag can be displayed in several ways ,depending on the type attribute -->
@@ -215,12 +215,24 @@
     </label>
       <br>
       <br>
-      <input type="button" value="submit">
+      <label for="city">Choose City:</label>
+      <select name="city" id="city">
+        <option value="Delhi">Delhi</option>
+        <option value="Pune">Pune</option>
+        <option value="Mumbai">Mumbai</option>
+        <option value="Aurangabad">Aurangabad</option>
+        <option value="Latur">Latur</option>
+      </select>
       <br>
       <br>
       <label for="101">
         <textarea name="Feedback" id="101" placeholder="Give Feedback"  rows="5"></textarea>
       </label>
+      <br>
+      <br>
+      <input type="submit" value="submit">
+      <br>
+      <br>
     </form>
 </body>
 </html>
