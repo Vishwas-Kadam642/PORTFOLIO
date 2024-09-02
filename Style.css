@@ -1,14 +1,18 @@
 h1{
-    color:  #00303F ;
+    color:  #3a4660;
 }
 
 h2{
-    color:  #DCAE1D;
+    color:  #050835;
 }
 
 body{
     /* this is Example for RGB color System */
-    background-color:     #CAE4DB;
+    background-color: #acb7ae;
     /* this is Example for HEX color System */
     /* background-color:#ff0000; */
+}
+
+a{
+    color: burlywood;
 }
