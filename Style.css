@@ -1,9 +1,24 @@
+/* this below code is for universal selector and it is represented by (*{properties}). with the help of universal selector
+we can apply properties to total document */
+/*
+    *{
+        color: #2e475d;
+    } 
+    */
+
+/* this below code is for element selector and it well help us to style a specific element at once  */
+/* 
+    h1{
+        color:  #ffffff;
+    } 
+*/
+
 h1{
     color:  #ffffff;
 }
 
 h2{
-    color: #7691ad;
+    color: #45143d;
 }
 
 body{
@@ -15,4 +30,8 @@ body{
 
 a{
     color: rgb(216, 153, 17);
+}
+
+button{
+    background-color: #6d074a;
 }
