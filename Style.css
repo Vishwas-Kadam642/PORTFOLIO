@@ -13,6 +13,25 @@ we can apply properties to total document */
     } 
 */
 
+/* this below code is for id selector . in html we can give give unique id for every element
+and by using that id in id selector of css we can style that specific element */
+/* 
+    #city{
+        background-color: #55d47b;
+    } 
+*/
+
+/* this below code is for class selector.with the help of class selector we can style multiple elements at once  */
+/* 
+    .HeadingOne{
+        color: red;
+    }
+    .HeadingTwo{
+        color: rgb(98, 255, 0);
+    }
+ */
+
+ 
 h1{
     color:  #ffffff;
 }
