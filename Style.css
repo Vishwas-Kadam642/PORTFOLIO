@@ -64,6 +64,15 @@ and by using that id in id selector of css we can style that specific element */
    }
 */
 
+/* this below code is for text-transform it will help us to manage the font case as per we required*/
+/* 
+   #paraOne{
+        font-size: 25px;
+        line-hight:50px;
+        text-transform:uppercase;
+        text-transform:lowercase/capitalize/none;
+   }
+*/
  
 h1{
     color:  #ffffff;
