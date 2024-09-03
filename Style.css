@@ -31,6 +31,39 @@ and by using that id in id selector of css we can style that specific element */
     }
  */
 
+
+ /* this below code is for font-family with the help of this font-family we can manage font style  */
+/* 
+    #city{
+        font-family:medium;
+    } 
+*/
+
+/* this below code is for font-weight it will tell us how much light or how much dark text is written */
+/* 
+    #city{
+        font-weight: bold;
+        font-weight: lighter;
+    }
+*/
+
+/* this below code is for font-size it will help us to change the size of written content and we can also change font-size of anchor tag to */
+/* 
+    #city{
+        font-size: 25px;
+        font-size:10px;
+    }
+*/
+
+/* this below code is for line-hight it will help us to manage the hight of the line as per requirment */
+/* 
+   #paraOne{
+        font-size: 25px;
+        line-hight:50px;
+        line-hight:10px;
+   }
+*/
+
  
 h1{
     color:  #ffffff;
