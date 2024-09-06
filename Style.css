@@ -123,3 +123,24 @@ footer{
     border: 20px;
     border-color: black;
 }
+
+#Experience{
+    padding: 15px;
+    background-color: rgb(197, 34, 34);
+    border: 20px;
+    border-color: black;
+}
+
+#Projects{
+    padding: 15px;
+    background-color: rgb(197, 34, 34);
+    border: 20px;
+    border-color: black;
+}
+
+#Tags{
+    padding: 15px;
+    background-color: rgb(197, 34, 34);
+    border: 20px;
+    border-color: black;
+}
