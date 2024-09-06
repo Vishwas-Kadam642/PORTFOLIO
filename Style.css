@@ -90,7 +90,7 @@ body{
 }
 
 a{
-    color: rgb(216, 153, 17);
+    color: rgb(0, 0, 0);
 }
 
 button{
@@ -102,15 +102,24 @@ button{
 }
 
 #HOME{
-    height: 60px;
-    background-color: #45143d;
+    padding: 25px;
+    padding-top: 50px;
+    height: 50px;
+    background-color: #f57b5f;
 }
 
 a{
-    margin-right: 100px;
+    margin-right: 150px;
 }
 
 footer{
     height: 70px;
     background-color: #f08804;
+}
+
+#Education{
+    padding: 15px;
+    background-color: rgb(197, 34, 34);
+    border: 20px;
+    border-color: black;
 }
