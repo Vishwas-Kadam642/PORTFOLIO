@@ -100,3 +100,12 @@ button{
 #Page1{
     text-align: center;
 }
+
+#HOME{
+    height: 60px;
+    background-color: #45143d;
+}
+
+a{
+    margin-right: 100px;
+}
