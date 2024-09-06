@@ -74,23 +74,27 @@ and by using that id in id selector of css we can style that specific element */
    }
 */
  
-h1{
+/* h1{
     color:  #ffffff;
 }
 
 h2{
     color: #45143d;
-}
+} */
+ *{
+    color: aliceblue;
+ }
 
 body{
     /* this is Example for RGB color System */
-    background-color: #928233;
+    /* background-color: rgb(67, 10, 10); */
     /* this is Example for HEX color System */
     /* background-color:#ff0000; */
+    background-image: linear-gradient(#071c34,#535353);
 }
 
 a{
-    color: rgb(0, 0, 0);
+    color: rgb(217, 136, 13);
 }
 
 button{
@@ -102,19 +106,22 @@ button{
 }
 
 #HOME{
+
     padding: 25px;
     padding-top: 50px;
     height: 50px;
-    background-color: #f57b5f;
+    background-image: linear-gradient(#645713,rgb(182, 112, 112));
 }
 
 a{
+    text-decoration: none;
     margin-right: 150px;
 }
 
-footer{
+#footer{
+    padding: 15px;
     height: 70px;
-    background-color: #f08804;
+    background-image: linear-gradient(#ac450a,rgb(182, 112, 112));
 }
 
 #Education{
