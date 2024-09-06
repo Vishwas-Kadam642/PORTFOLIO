@@ -109,3 +109,8 @@ button{
 a{
     margin-right: 100px;
 }
+
+footer{
+    height: 70px;
+    background-color: #f08804;
+}
